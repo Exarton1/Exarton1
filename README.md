@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey! I'm Exarton — a passionate developer and creator who loves building tools, bots, and web experiences that make a difference in gaming communities and beyond.<br><br>From Discord bots and FiveM scripts to ETS2 VTC tools and clean, modern websites — I enjoy turning ideas into functional, user-friendly projects.<br><br>💻 What I Do<br>Build custom Discord bots for gaming & VTC communities<br><br>Design clean and responsive web dashboards<br><br>Create automation tools that save time and boost productivity<br><br>Explore new technologies and always keep learning<br><br>⚙️ My Philosophy<br>I believe in clean code, purposeful design, and making tech that's actually useful. Whether it's a small script or a full-stack project, I aim for quality and reliability every time.
-
+Hey, I’m Exarton — a casual coder who enjoys building Discord bots, web dashboards, and tools for games like ETS2 and FiveM. I like working on fun, useful stuff that helps communities run smoother.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Exarton) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Exarton) 
