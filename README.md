@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hey, I’m Exarton — a casual coder who enjoys building Discord bots, web dashboards, and tools for games like ETS2 and FiveM. I like working on fun, useful stuff that helps communities run smoother.
 
 ## 🌐 Socials:
